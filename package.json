@@ -1,0 +1,16 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "description": "REST API для списка телефонных контактов",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "student",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0"
+  }
+}
